@@ -1,5 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-
+## Name NITHISH G S
+## Reg.No.24003058
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
